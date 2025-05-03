@@ -57,19 +57,6 @@ The project focuses on extracting meaningful insights from investment-related da
 - **Role:** Power BI Intern  
 - **Duration:** 1 Month  
 - **Deliverables:** One complete Power BI dashboard project with report
-
----
-
-## 📷 Dashboard Snapshots
-
-<p align="center">
-  <img src="dashboard-screenshots/page1.png" alt="Dashboard Page 1" width="700"/>
-</p>
-
-<p align="center">
-  <img src="dashboard-screenshots/page2.png" alt="Dashboard Page 2" width="700"/>
-</p>
-
 ---
 
 ## 📜 Certificate
